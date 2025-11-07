@@ -26,11 +26,11 @@
 
 13-CreateGetters: Nesnedeki özellikleri “get” fonksiyonuna dönüştürür.
 
-14-DeepReadonly: İç içe tüm nesneleri salt okunur yapar.
+14-DeepReadonly: İç içe tüm nesneleri okunur yapar.
 
 15-PickByValueType: Belirli türdeki değerleri seçer.
 
-16-Branded Types: Aynı tipte ama karışmayan özel türler oluşturur.
+16-Branded Types: Aynı tipte ama karışmayan türler oluşturur.
 
 17-FilterUnion: Union içinden istenen türleri çıkarır.
 
